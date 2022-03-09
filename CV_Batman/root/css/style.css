@@ -1,0 +1,135 @@
+img {
+  position: absolute;
+  width: 100px;
+  height: 146.37px;
+  left: 670px;
+  top: 20.91px;
+}
+#encabezado {
+  position: absolute;
+  width: 1440px;
+  height: 188.19px;
+  left: 0px;
+  top: 0px;
+
+  background: #e6e6e6;
+}
+
+#titulo {
+  position: absolute;
+  width: 1440px;
+  height: 60px;
+  left: 0px;
+  top: 188px;
+
+  background: #c4c4c4;
+}
+h1 {
+  position: relative;
+  left: 380px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 84.69%;
+  /* identical to box height, or 30px */
+
+  font-feature-settings: "cpsp" on;
+
+  color: #005677;
+}
+#dato1 {
+  position: absolute;
+  width: 1440px;
+  height: 30px;
+  left: 0px;
+  top: 381px;
+
+  background: #c4c4c4;
+}
+#dato2 {
+  position: absolute;
+  width: 1440px;
+  height: 30px;
+  left: 0px;
+  top: 518px;
+
+  background: #c4c4c4;
+}
+
+#dato3 {
+  position: absolute;
+  width: 1440px;
+  height: 30px;
+  left: 0px;
+  top: 673px;
+
+  background: #c4c4c4;
+}
+h2 {
+  position: relative;
+  bottom: 7px;
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 84.69%;
+  /* identical to box height, or 17px */
+
+  font-feature-settings: "cpsp" on;
+
+  color: #005677;
+}
+#pie {
+  position: absolute;
+  width: 1440px;
+  height: 37px;
+  left: 0px;
+  top: 987px;
+
+  background: #005677;
+}
+.letra1 {
+  font-family: Times New Roman;
+  /*font-style: italic;*/
+  /*font-weight: bold;*/
+  font-size: 15px;
+  line-height: 130%;
+
+  /* identical to box height, or 13px */
+
+  color: #000000;
+}
+#letra2 {
+  font-family: Times New Roman;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 84.69%;
+  /* identical to box height, or 17px */
+
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  bottom: 4px;
+}
+#inst {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 850px;
+  top: 10px;
+}
+#linke {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 900px;
+  top: 10px;
+}
+#encuadre {
+  position: absolute;
+  width: 1440px;
+  height: 987;
+  left: 400px;
+}
